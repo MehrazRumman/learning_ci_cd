@@ -32,4 +32,4 @@ jobs:
 
       - name: Build application
         run: |
-          echo "No build step required for FastAPI. Add build
+          echo "No build step required for FastAPI. Add build"
